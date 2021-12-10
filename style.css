@@ -508,10 +508,9 @@ section{
 .footer .credit span{
     color:var(--main-color);
 }
-/*
 
 
-/* media queries  *
+/* RESPONSIVE DESIGN */
 @media (max-width:991px){
 
     html{
@@ -581,4 +580,4 @@ section{
         font-size: 50%;
     }
 
-}  */
+}
